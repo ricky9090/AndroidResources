@@ -5,3 +5,4 @@
 * [Kotlin Reference](https://kotlinlang.org/docs/reference/)
 * [Using OkHttp](https://guides.codepath.com/android/Using-OkHttp)
 * [RxJava - 小心 observeOn 的陷阱](https://www.jianshu.com/p/238b286ac69c)
+* [Java Android 近几年最全面的技术点以及面试题](https://github.com/pengMaster/BestNote)
