@@ -6,6 +6,7 @@
 * [Java Android 近几年最全面的技术点以及面试题](https://github.com/pengMaster/BestNote)
 * [Android “launchMode” (Visualized)](https://medium.com/@iammert/android-launchmode-visualized-8843fc833dbe)
 * [Understand Android Activity's launchMode: standard, singleTop, singleTask and singleInstance](https://inthecheesefactory.com/blog/understand-android-activity-launchmode/en)
+* [Bohemian Wrapsody -- Wrapping third-party APIs is a best practice](https://proandroiddev.com/bohemian-wrapsody-86a5ac3c910a)
 
 ## RxJava
 * [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)
