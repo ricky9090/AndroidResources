@@ -8,6 +8,9 @@
 * [Understand Android Activity's launchMode: standard, singleTop, singleTask and singleInstance](https://inthecheesefactory.com/blog/understand-android-activity-launchmode/en)
 * [Bohemian Wrapsody -- Wrapping third-party APIs is a best practice](https://proandroiddev.com/bohemian-wrapsody-86a5ac3c910a)
 * [Android应用Activity、Dialog、PopWindow、Toast窗口添加机制及源码分析](https://blog.csdn.net/yanbober/article/details/46361191)
+* [理解Android Context](http://gityuan.com/2017/04/09/android_context/)
+* [深度剖析APP保活案例](http://gityuan.com/2018/02/24/process-keep-forever/)
+* [一行Log引发多线程并发问题的案例](http://gityuan.com/2018/02/03/log-fc/)
 
 ## RxJava
 * [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)
