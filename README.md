@@ -28,3 +28,4 @@
 
 ## Jetpack
 * [Handling Lifecycles with Lifecycle-Aware Components](https://developer.android.com/topic/libraries/architecture/lifecycle)
+* [Android Jetpack: LiveData 和 Lifecycle 介绍 | 中文教学视频 BiliBili](https://www.bilibili.com/video/av33633628)
