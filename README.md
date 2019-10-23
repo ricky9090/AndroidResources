@@ -12,6 +12,7 @@
 * [深度剖析APP保活案例](http://gityuan.com/2018/02/24/process-keep-forever/)
 * [一行Log引发多线程并发问题的案例](http://gityuan.com/2018/02/03/log-fc/)
 * [Android图片加载框架最全解析（一），Glide的基本用法](https://blog.csdn.net/guolin_blog/article/details/53759439)
+* [How to Implement and Use a Parcelable Class in Android: Part 1](https://medium.com/techmacademy/how-to-implement-and-use-a-parcelable-class-in-android-part-1-28cca73fc2d1)
 
 ## RxJava
 * [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)
