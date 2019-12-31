@@ -18,12 +18,12 @@
 * [现有APP中集成Flutter](https://github.com/flutter/flutter/wiki/Add-Flutter-to-existing-apps)
 * [Android中添加Flutter页面](https://github.com/flutter/flutter/wiki/Adding-Flutter-to-Android)
 * [Flutter 原理与实践 美团技术团队](https://tech.meituan.com/2018/08/09/waimai-flutter-practice.html)
-* (十分钟理解Redux核心思想)[https://segmentfault.com/a/1190000015455965]
-* (Redux设计思想与使用场景)[https://segmentfault.com/a/1190000015367584]
-* (How to use Redux in Flutter App)[https://medium.com/@mahmudahsan/how-to-use-redux-in-flutter-app-6299f69fadee]
-* (纷争再起：Flutter-UI绘制解析)[http://ddrv.cn/a/153319]
-* (Simple app state management)[https://flutter.dev/docs/development/data-and-backend/state-mgmt/simple]
-* (Provider Counter Sample)[https://github.com/flutter/samples/tree/master/provider_counter]
+* [十分钟理解Redux核心思想](https://segmentfault.com/a/1190000015455965)
+* [Redux设计思想与使用场景](https://segmentfault.com/a/1190000015367584)
+* [How to use Redux in Flutter App](https://medium.com/@mahmudahsan/how-to-use-redux-in-flutter-app-6299f69fadee)
+* [纷争再起：Flutter-UI绘制解析](http://ddrv.cn/a/153319)
+* [Simple app state management](https://flutter.dev/docs/development/data-and-backend/state-mgmt/simple)
+* [Provider Counter Sample](https://github.com/flutter/samples/tree/master/provider_counter)
 
 ## RxJava
 * [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)
